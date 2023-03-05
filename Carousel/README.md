@@ -9,5 +9,6 @@
 <a id="203m"></a> ![203.jpg](https://ewwgene.github.io/Kite/Making/203.jpg)
 <a id="205m"></a> ![205.jpg](https://ewwgene.github.io/Kite/Making/205.jpg)
 <a id="207m"></a> ![207.jpg](https://ewwgene.github.io/Kite/Making/207.jpg)
+<a id="211m"></a> ![211.jpg](https://ewwgene.github.io/Kite/Making/211.jpg)
 <a id="303"></a> ![303.jpg](https://ewwgene.github.io/Kite/303.jpg)
 
